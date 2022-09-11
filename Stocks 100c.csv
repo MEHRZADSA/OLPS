@@ -1,0 +1,100 @@
+"""AMZN""",amazon,yahoo,stock
+"""MCD""",macdonalds,yahoo,stock
+"""DRI""",darden restaurants,yahoo,stock
+"""F""",ford,yahoo,stock
+"""ADM""",archer-daniels midland,yahoo,stock
+"""COST""",costco wholesale corporation,yahoo,stock
+"""PEP""",pepsi,yahoo,stock
+"""WMT""",walmart,yahoo,stock
+"""ABBV""",abbvie,yahoo,stock
+"""AMGN""",amgen,yahoo,stock
+"""COO""",cooper companies,yahoo,stock
+"""JNJ""",johnson & johnson,yahoo,stock
+"""AAL""",american airline group,yahoo,stock
+"""CAT""",caterpillar,yahoo,stock
+"""EMR""",emerson electric,yahoo,stock
+"""ROP""",roper technologies,yahoo,stock
+"""AAPL""",apple,yahoo,stock
+"""IBM""",ibm,yahoo,stock
+"""MA""",mastercard,yahoo,stock
+"""PYPL""",paypal holdings,yahoo,stock
+"""COG""",cabot oil and gas corporation,yahoo,stock
+"""EOG""",eog resources,yahoo,stock
+"""HP""",helmerich & payne,yahoo,stock
+"""XOM""",exxon mobil corporation,yahoo,stock
+"""AIG""",american international group,yahoo,stock
+"""BAC""",bank of america,yahoo,stock
+"""JPM""",jp morgan,yahoo,stock
+"""USB""",u.s bancorp,yahoo,stock
+"""CMS""",cms energy corporation,yahoo,stock
+"""ED""",consolidated edison,yahoo,stock
+"""DUK""",duje energy corp,yahoo,stock
+"""PCG""",pg&e corporation,yahoo,stock
+"""DIS""",walt disney,yahoo,stock
+"""V""",Visa,,
+"""HD""",home debut,,
+"""KO""",coca cola,,
+"""FB""",facebook,yahoo,stock
+"""INTC""",intel,yahoo,stock
+"""TMUS""",t mobile,yahoo,stock
+"""C""",city group,yahoo,stock
+"""PM""",philip morris international,yahoo,stock
+"""MS""",morgan stanely,yahoo,stock
+"""SBUX""",starbucks,yahoo,stock
+"""GS""",goldman sacks,yahoo,stock
+"""T""",sony,yahoo,stock
+"""AMT""",american tower,yahoo,stock
+"""CVS""",cvs health corporation,yahoo,stock
+"""AXP""",american express,yahoo,stock
+"""BLK""",blackrock,yahoo,stock
+"""SHOP""",shopify,yahoo,stock
+"""SAP""",sap,yahoo,stock
+"""NKE""",nike,yahoo,stock
+"""TM""",toyota,yahoo,stock
+"""RY""",royal bank of canada,yahoo,stock
+"""GOOGL""",google,yahoo,stock
+"""NFLX""",netflix,yahoo,stock
+"""AIV""",apartment investment and management,yahoo,stock
+"""BXP""",boston properties,yahoo,stock
+"""DRE""",duke realty group,yahoo,stock
+"""IRM""",iron mountain,yahoo,stock
+"""ALB""",albemarle corporation,yahoo,stock
+"""IFF""",international flavor and fragrances,yahoo,stock
+"""PKG""",packaging corp of america,yahoo,stock
+"""IP""",international paper,yahoo,stock
+"""VZ""",verizon communication,,
+"""LIN""",linde,,
+"""NEE""",nextera energy,,
+"""BA""",boeing,,
+"""TD""",toronto domination bank,,
+"""BTC-USD""",bitcoin,yahoo,crypto
+"""ETH-USD""",etherium,yahoo,crypto
+"""BNB-USD""",binance coin,yahoo,crypto
+"""XRP-USD""",ripple,yahoo,crypto
+"""LTC-USD""",litecoin,yahoo,crypto
+"""ADA-USD""",cardano,yahoo,crypto
+"""DOGE-USD""",doge,yahoo,crypto
+"""BCH-USD""",bitcoin cash,yahoo,crypto
+"""XLM-USD""",stellar,yahoo,crypto
+"""ETC-USD""",etherium classic,yahoo,crypto
+"""XMR-USD""",monero,yahoo,crypto
+"""TRX-USD""",tron,yahoo,crypto
+"""EURUSD=X""",eurusd,yahoo,currency pairs
+"""GBPUSD=X""",gbpusd,yahoo,currency pairs
+"""JPY=X""",jpyusd,yahoo,currency pairs
+"""NZDUSD=X""",nzdusd,yahoo,currency pairs
+"""AUDUSD=X""",audusd,yahoo,currency pairs
+"""^FVX""",treasury yield 5 years,yahoo,treasury
+"""^TNX""",treasury yield 10 years,yahoo,treasury
+"""^TYX""",treasury yield 30 years,yahoo,treasury
+"""^IRX""",13 weeks treasury bills,yahoo,treasury
+"""GC=F""",gold future,yahoo,commodity
+"""CL=F""",crude oil future,yahoo,commodity
+"""ZC=F""",corn future,yahoo,commodity
+"""CT=F""",cotton futures,yahoo,commodity
+"""PL=F""",platinum futures,yahoo,commodity
+"""SI=F""",silver future,yahoo,commodity
+"""HG=F""",copper futures,yahoo,commodity
+"""RB=F""",gasoline rbob,yahoo,commodity
+"""HO=F""",heating oil futures,yahoo,commodity
+"""NG=F""",natural gas futures,yahoo,commodity
